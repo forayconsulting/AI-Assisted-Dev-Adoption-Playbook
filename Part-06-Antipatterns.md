@@ -1102,3 +1102,29 @@ The antipatterns described here serve as warning signs—markers on the map show
 The next chapter explores how to build governance and coordination mechanisms that reinforce positive patterns while preventing antipatterns from taking root. The goal isn't to constrain AI usage but to channel it toward sustainable, beneficial outcomes that enhance rather than undermine human capability.
 
 ---
+
+## Navigation
+
+### Next Chapter
+[Part 7: Coordination and Governance →](Part-07-Coordination-and-Governance.md)
+
+### Suggested Reading Paths
+
+**For Individual Developers:**
+- Consider reviewing other chapters based on specific interests
+- [Part 8: Technical Architecture](Part-08-Technical-Architecture.md) for technical patterns
+- [Part 9: Enablement and Education](Part-09-Enablement-and-Education.md) for learning resources
+
+**For Team Leads:**
+- Continue to [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for process design
+- Then [Part 9: Enablement and Education](Part-09-Enablement-and-Education.md) for skill building programs
+
+**For Architects and Technical Leaders:**
+- Review [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for technical governance
+- Jump to [Part 8: Technical Architecture](Part-08-Technical-Architecture.md) for architecture patterns
+
+**For Executives and Decision Makers:**
+- Consider [Part 10: The Path Forward](Part-10-The-Path-Forward.md) for future vision
+- Review [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for governance frameworks
+
+[← Back to Table of Contents](README.md)

@@ -896,3 +896,28 @@ The enterprise adoption journey begins with a simple recognition: the future of 
 The next chapter explores how teams can implement these principles in their daily practice, turning organizational vision into developer reality. The journey from enterprise strategy to team execution requires its own patterns and practices—patterns that the most successful organizations are already discovering and refining.
 
 ---
+
+## Navigation
+
+### Next Chapter
+[Part 4: Team Implementation Patterns →](Part-04-Team-Implementation.md)
+
+### Suggested Reading Paths
+
+**For Individual Developers:**
+- Consider [Part 5: Development Practices](Part-05-Development-Practices.md) for practical techniques
+- Review [Part 6: Antipatterns](Part-06-Antipatterns.md) to understand risks
+
+**For Team Leads:**
+- Continue to [Part 4: Team Implementation Patterns](Part-04-Team-Implementation.md) for team dynamics
+- Then [Part 6: Antipatterns](Part-06-Antipatterns.md) for risk awareness
+
+**For Architects and Technical Leaders:**
+- Jump to [Part 8: Technical Architecture](Part-08-Technical-Architecture.md) for technical patterns
+- Consider [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for governance design
+
+**For Executives and Decision Makers:**
+- Continue to [Part 10: The Path Forward](Part-10-The-Path-Forward.md) for future vision
+- Review [Part 6: Antipatterns](Part-06-Antipatterns.md) for risk awareness
+
+[← Back to Table of Contents](README.md)

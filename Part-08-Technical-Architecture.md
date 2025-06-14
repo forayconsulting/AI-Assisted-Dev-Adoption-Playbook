@@ -920,3 +920,28 @@ But perhaps most importantly, these architectures will enable developers to focu
 The next chapter explores how to build and sustain the human capabilities necessary to thrive in this new architectural paradigm. Because ultimately, the most sophisticated architecture means nothing without people who know how to leverage it effectively.
 
 ---
+
+## Navigation
+
+### Next Chapter
+[Part 9: Enablement and Education →](Part-09-Enablement-and-Education.md)
+
+### Suggested Reading Paths
+
+**For Individual Developers:**
+- Continue to [Part 9: Enablement and Education](Part-09-Enablement-and-Education.md) for learning resources
+- Review earlier chapters for specific technical patterns
+
+**For Team Leads:**
+- Jump to [Part 9: Enablement and Education](Part-09-Enablement-and-Education.md) for skill building programs
+- Consider [Part 5: Development Practices](Part-05-Development-Practices.md) for team practices
+
+**For Architects and Technical Leaders:**
+- Review [Part 3: Enterprise Adoption](Part-03-Enterprise-Adoption.md) for organizational impact
+- Consider [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for governance patterns
+
+**For Executives and Decision Makers:**
+- Skip to [Part 10: The Path Forward](Part-10-The-Path-Forward.md) for future vision
+- Review [Part 3: Enterprise Adoption](Part-03-Enterprise-Adoption.md) for strategic planning
+
+[← Back to Table of Contents](README.md)

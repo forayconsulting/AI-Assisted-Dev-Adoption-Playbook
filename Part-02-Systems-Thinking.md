@@ -665,3 +665,28 @@ As one CTO summarized: "Success with AI isn't about the tools—it's about the s
 With this systems view established, we can now explore how organizations can create the frameworks and cultures necessary for successful AI adoption at scale. The journey from individual experimentation to organizational capability requires deliberate design, but the rewards—in productivity, quality, and innovation—justify the investment.
 
 ---
+
+## Navigation
+
+### Next Chapter
+[Part 3: Enterprise Adoption Framework →](Part-03-Enterprise-Adoption.md)
+
+### Suggested Reading Paths
+
+**For Individual Developers:**
+- Continue with [Part 5: Development Practices](Part-05-Development-Practices.md) for hands-on techniques
+- Then [Part 6: Antipatterns](Part-06-Antipatterns.md) to avoid common mistakes
+
+**For Team Leads:**
+- Jump to [Part 4: Team Implementation Patterns](Part-04-Team-Implementation.md) for team dynamics
+- Consider [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for process design
+
+**For Architects and Technical Leaders:**
+- Continue to [Part 3: Enterprise Adoption Framework](Part-03-Enterprise-Adoption.md) for organizational impact
+- Then [Part 8: Technical Architecture](Part-08-Technical-Architecture.md) for implementation patterns
+
+**For Executives and Decision Makers:**
+- Skip to [Part 3: Enterprise Adoption Framework](Part-03-Enterprise-Adoption.md) for strategic perspectives
+- Consider [Part 10: The Path Forward](Part-10-The-Path-Forward.md) for future vision
+
+[← Back to Table of Contents](README.md)

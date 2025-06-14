@@ -1237,3 +1237,28 @@ The transformation happens not through mandates or tools, but through people—d
 The next chapter explores how these team-level practices manifest in concrete development activities—from code generation to testing, from architecture to debugging—creating systematic approaches to AI-augmented software development that transform how we build software.
 
 ---
+
+## Navigation
+
+### Next Chapter
+[Part 5: Development Practices →](Part-05-Development-Practices.md)
+
+### Suggested Reading Paths
+
+**For Individual Developers:**
+- Continue to [Part 5: Development Practices](Part-05-Development-Practices.md) for practical techniques
+- Then [Part 6: Antipatterns](Part-06-Antipatterns.md) to avoid common pitfalls
+
+**For Team Leads:**
+- Review [Part 6: Antipatterns](Part-06-Antipatterns.md) for shared awareness
+- Then [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for process design
+
+**For Architects and Technical Leaders:**
+- Consider [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for governance patterns
+- Jump to [Part 8: Technical Architecture](Part-08-Technical-Architecture.md) for technical details
+
+**For Executives and Decision Makers:**
+- Consider [Part 6: Antipatterns](Part-06-Antipatterns.md) to understand risks
+- Review [Part 10: The Path Forward](Part-10-The-Path-Forward.md) for strategic vision
+
+[← Back to Table of Contents](README.md)

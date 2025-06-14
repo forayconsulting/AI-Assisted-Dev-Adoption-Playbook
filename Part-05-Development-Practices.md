@@ -797,3 +797,28 @@ As one team lead summarized: "AI hasn't replaced any of our developers. It's mad
 The next chapter explores a critical aspect of this transformation: the antipatterns that emerge when AI is misapplied, and how to avoid them. Understanding what doesn't work is just as important as knowing what does.
 
 ---
+
+## Navigation
+
+### Next Chapter
+[Part 6: Antipatterns →](Part-06-Antipatterns.md)
+
+### Suggested Reading Paths
+
+**For Individual Developers:**
+- Continue to [Part 6: Antipatterns](Part-06-Antipatterns.md) to learn what to avoid
+- Consider other chapters based on specific needs
+
+**For Team Leads:**
+- Jump to [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for process design
+- Then [Part 9: Enablement and Education](Part-09-Enablement-and-Education.md) for skill building
+
+**For Architects and Technical Leaders:**
+- Consider [Part 8: Technical Architecture](Part-08-Technical-Architecture.md) for implementation patterns
+- Review [Part 7: Coordination and Governance](Part-07-Coordination-and-Governance.md) for technical governance
+
+**For Executives and Decision Makers:**
+- Skip to [Part 10: The Path Forward](Part-10-The-Path-Forward.md) for future vision
+- Review [Part 6: Antipatterns](Part-06-Antipatterns.md) for risk awareness
+
+[← Back to Table of Contents](README.md)

@@ -1088,3 +1088,28 @@ Key principles for effective AI-native governance:
 The next chapter explores the technical architecture required to support these new ways of working, examining how to build systems that can evolve as rapidly as the AI tools that help create them.
 
 ---
+
+## Navigation
+
+### Next Chapter
+[Part 8: Technical Architecture →](Part-08-Technical-Architecture.md)
+
+### Suggested Reading Paths
+
+**For Individual Developers:**
+- Consider [Part 8: Technical Architecture](Part-08-Technical-Architecture.md) for technical patterns
+- Review [Part 9: Enablement and Education](Part-09-Enablement-and-Education.md) for learning resources
+
+**For Team Leads:**
+- Continue to [Part 9: Enablement and Education](Part-09-Enablement-and-Education.md) for skill building
+- Review [Part 5: Development Practices](Part-05-Development-Practices.md) for technical details
+
+**For Architects and Technical Leaders:**
+- Continue to [Part 8: Technical Architecture](Part-08-Technical-Architecture.md) for implementation patterns
+- Consider reviewing earlier chapters for context
+
+**For Executives and Decision Makers:**
+- Jump to [Part 10: The Path Forward](Part-10-The-Path-Forward.md) for strategic vision
+- Consider [Part 4: Team Implementation](Part-04-Team-Implementation.md) for change management
+
+[← Back to Table of Contents](README.md)
