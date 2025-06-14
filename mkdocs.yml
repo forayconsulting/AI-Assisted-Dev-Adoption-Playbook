@@ -1,0 +1,108 @@
+site_name: AI-Assisted Development Adoption Playbook
+site_description: A practical guide for teams and organizations adopting AI-native development practices
+site_author: Foray Consulting
+site_url: https://forayconsulting.github.io/AI-Assisted-Dev-Adoption-Playbook
+
+repo_name: forayconsulting/AI-Assisted-Dev-Adoption-Playbook
+repo_url: https://github.com/forayconsulting/AI-Assisted-Dev-Adoption-Playbook
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - search.share
+    - toc.follow
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+  - awesome-pages
+  - include_dir_to_nav:
+      file_name_as_title: true
+      sort_file: true
+      sort_directory: true
+      flat: false
+      recurse: true
+      include_empty_dir: false
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Foundations:
+    - "Part 1: Foundations": Part-01-Foundations.md
+    - "Part 2: Systems Thinking": Part-02-Systems-Thinking.md
+    - "Part 3: Enterprise Adoption": Part-03-Enterprise-Adoption.md
+  - Implementation:
+    - "Part 4: Team Implementation": Part-04-Team-Implementation.md
+    - "Part 5: Development Practices": Part-05-Development-Practices.md
+  - Governance & Risk:
+    - "Part 6: Antipatterns": Part-06-Antipatterns.md
+    - "Part 7: Coordination and Governance": Part-07-Coordination-and-Governance.md
+  - Architecture & Future:
+    - "Part 8: Technical Architecture": Part-08-Technical-Architecture.md
+    - "Part 9: Enablement and Education": Part-09-Enablement-and-Education.md
+    - "Part 10: The Path Forward": Part-10-The-Path-Forward.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/forayconsulting/AI-Assisted-Dev-Adoption-Playbook
+  analytics:
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! Help us improve this page by
+            <a href="https://github.com/forayconsulting/AI-Assisted-Dev-Adoption-Playbook/issues/new" target="_blank" rel="noopener">opening an issue</a>.
+
+copyright: |
+  &copy; 2024 Foray Consulting. 
+  <a href="#__consent">Change cookie settings</a>
