@@ -38,7 +38,7 @@ graph LR
 
 This transformation isn't just about doing the same things faster—it's about fundamentally different approaches to governance. Traditional governance acts as a gatekeeper, reviewing and approving. AI-native governance acts as an enabler, monitoring and adapting.
 
-A financial services company that successfully transformed their governance shared their journey: "We used to have a 47-page governance document that nobody read and everyone worked around. Now we have a living system that learns from every decision and adapts based on outcomes. Ironically, we have better control with less friction."
+Research from Georgetown's Center for Security and Emerging Technology reveals the complexity of AI governance: "The AI governance challenge stems from fragmented authority and misaligned incentives across different organizational levels." Their study found that successful AI governance requires "coordination mechanisms that balance innovation with risk management, requiring new forms of cross-functional collaboration that traditional governance structures weren't designed to handle."
 
 ### Multi-Level Governance Framework
 

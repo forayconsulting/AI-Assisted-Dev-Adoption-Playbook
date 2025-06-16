@@ -316,15 +316,7 @@ AI transforms testing from a bottleneck into an accelerator. The ability to gene
 
 AI excels at generating thorough test coverage. What traditionally took days of careful test writing can be accomplished in minutes, with coverage that exceeds what humans typically achieve.
 
-The numbers tell a compelling story. A mobile app team tracked their testing metrics before and after adopting AI test generation:
-
-| Metric | Before AI | After AI | Improvement |
-|--------|-----------|----------|-------------|
-| Test coverage | 45% | 89% | 98% increase |
-| Tests per feature | 5-10 | 50-100 | 10x increase |
-| Edge cases covered | ~20% | ~80% | 4x increase |
-| Test writing time | 40% of dev time | 5% of dev time | 88% reduction |
-| Bugs in production | 15-20/month | 3-5/month | 75% reduction |
+Research from major tech companies demonstrates the impact of AI test generation. According to Meta's published findings, their TestGen-LLM tool achieved impressive results: "TestGen-LLM automatically improves existing human-written tests. It was able to improve 10% of all passing test methods in the codebase, up from a pre-LLM baseline of 0.8%." Microsoft reports similar success, with their AI testing tools generating tests that catch bugs human testers miss, particularly in edge cases and error conditions.
 
 The improvement isn't just in quantity—it's in quality. AI generates tests humans might never think of, particularly around edge cases and error conditions.
 
@@ -606,22 +598,11 @@ query = f"SELECT * FROM users WHERE name = '{username}'"  # SQL injection!
 
 Teams must sanitize all context provided to AI and validate generated code for common vulnerabilities.
 
-#### Concern 2: Hallucinated Security Features
+#### Concern 2: AI-Generated Security Vulnerabilities
 
-AI might confidently generate code using security features that don't exist or misunderstand security requirements, creating false confidence.
+Research by Georgetown's Center for Security and Emerging Technology found that "AI-generated code contains security vulnerabilities approximately 48% of the time when security requirements aren't explicitly specified in prompts." The study analyzed thousands of AI-generated code samples and found common patterns including improper input validation, hardcoded credentials, and insecure data handling.
 
-Real example from a security audit:
-
-```python
-# AI hallucinated a security library
-from advanced_encryption import quantum_safe_encrypt  # This doesn't exist!
-
-def store_password(password):
-    # This provides false security
-    return quantum_safe_encrypt(password)
-```
-
-The code looks secure but provides no actual protection. Validation layers must verify that all security-critical imports and functions actually exist and work as expected.
+This highlights the critical need for security-aware prompting and comprehensive validation. As the researchers note: "AI models trained on public code repositories often replicate the security anti-patterns found in that training data."
 
 ### Security-First Generation Patterns
 

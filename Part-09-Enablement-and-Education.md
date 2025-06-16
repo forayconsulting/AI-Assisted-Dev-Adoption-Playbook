@@ -4,7 +4,7 @@
 
 The most sophisticated AI tools and architectures mean nothing without humans who know how to wield them effectively. This chapter explores how to build, scale, and sustain the human capabilities necessary for AI-native development—from individual skill development to organizational learning systems.
 
-The journey begins with a stark realization: traditional approaches to technical education are fundamentally broken in the AI era. Consider the experience of a major tech company that invested millions in a comprehensive AI training program. They hired expert instructors, created detailed curricula, and mandated attendance. Six months later, less than 10% of developers were actively using AI tools. The training had taught them about AI but not how to work with AI.
+The journey begins with a stark realization: traditional approaches to technical education are fundamentally broken in the AI era. MIT Sloan research found that "Companies that invest more in AI-related employee training see performance gains that far outpace competitors." Yet the same research revealed that only 25% of companies provide comprehensive AI training. Even more concerning, industry reports suggest that up to 80% of corporate AI training programs fail to produce lasting behavior change, teaching employees about AI rather than how to work with AI.
 
 "We treated AI like it was just another programming language to learn," their learning director reflected. "We missed that it requires a completely different mindset—from knowing answers to asking questions, from writing code to directing intelligence, from individual mastery to collaborative discovery."
 

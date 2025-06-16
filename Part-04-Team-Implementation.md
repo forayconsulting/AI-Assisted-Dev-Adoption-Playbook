@@ -16,7 +16,7 @@ Teams rarely adopt AI through official channels first. Instead, adoption follows
 
 The most common adoption pattern begins in silence. A developer, frustrated with repetitive tasks or curious about AI capabilities, starts experimenting privately. They use personal ChatGPT accounts, Claude subscriptions, or free tiers of various tools. No announcements, no fanfare—just quiet productivity gains.
 
-This pattern emerges from a combination of curiosity and self-preservation. Developers want to explore AI's potential without risking judgment if it doesn't work out. They're protecting both their productivity secret weapon and their professional reputation. As one developer confided: "I used ChatGPT secretly for three months before telling anyone. I wanted to be sure it actually helped before dealing with the politics."
+This pattern emerges from a combination of curiosity and self-preservation. Developers want to explore AI's potential without risking judgment if it doesn't work out. They're protecting both their productivity secret weapon and their professional reputation. According to Fortune's reporting on Cloudflare's research, ChatGPT has become "the most popular AI application among businesses—making it the number one 'shadow IT' app at companies." The scale is staggering: "more than 5% of large companies' total bandwidth on average" goes to generative AI tools, with much of this usage happening outside official channels.
 
 **Characteristics of Silent Experimenters:**
 - Often mid-level developers with 3-7 years experience

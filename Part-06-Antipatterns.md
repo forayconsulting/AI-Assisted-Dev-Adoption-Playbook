@@ -38,7 +38,7 @@ By this stage, the deterioration becomes noticeable. Developers struggle with ta
 
 The atrophy isn't uniform. Skills used daily with AI assistance remain sharp. But foundational skills—algorithm design, performance analysis, security assessment—decay from disuse. It's like a guitarist who only plays with backing tracks forgetting how to play solo.
 
-A stark example came from a team that had fully embraced AI for six months. When their AI tools went down during a critical production issue, they struggled to debug a race condition—something any senior developer should handle. "We sat there staring at the logs like junior developers," one admitted. "We'd forgotten how to think through concurrent execution paths."
+Research by GitClear analyzing 153 million lines of code changes found concerning trends: "Code churn—the percentage of lines that are reverted or updated less than two weeks after being authored—is projected to double in 2024 compared to its 2021, pre-AI baseline." They warn that "the percentage of 'added code' and 'copy/pasted code' is increasing in proportion to 'updated,' 'deleted,' and 'moved' code... this is a sign that AI may be leading to more maintainability toil."
 
 **Week 21+: Crisis Point**
 
